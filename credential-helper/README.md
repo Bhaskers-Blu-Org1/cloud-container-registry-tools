@@ -1,5 +1,5 @@
 # Credential Helper
-Authorisation for ICCR without `ibmcloud cr login` or `docker login`
+Authorisation for ICCR without `ibmcloud cr login` or `docker login`, see [credential helpers](https://docs.docker.com/engine/reference/commandline/login/#credential-helpers)
  
 Requirements:
 1. Have a linux like environment with `/bin/bash`.
